@@ -6,11 +6,17 @@ Full Stack Developer
 
 As a highly skilled and versatile software engineer, I bring extensive experience in various web development frameworks such as Rails, Django, Flask, Fast API, and MERN (MongoDB, Express.js, React.js, Node.js). My proficiency in Python, JavaScript, and C++ enables me to effectively tackle diverse projects and deliver high-quality solutions. Throughout my career, I have gained expertise in developing and integrating APIs, showcasing my ability to design robust and scalable backend systems. Additionally, I possess a solid understanding of frontend development, particularly with React JavaScript, allowing me to create engaging and user-friendly interfaces. I have demonstrated a keen interest in cloud technologies and possess a working knowledge of AWS services, including EC2, Lambda functions, Elastic Beanstalk, and S3. Moreover, I have familiarity with Docker and Kubernetes, which reflects my commitment to adopting modern deployment practices and containerization. With a strong analytical mindset and problem-solving skills, I approach challenges with a methodical and detail-oriented approach. I am highly adaptable and thrive in collaborative environments, where I can leverage my excellent communication and teamwork abilities to deliver outstanding results. Overall, my diverse skill set, encompassing multiple frameworks, languages, and technologies, combined with my passion for innovation and continuous learning, make me a valuable asset in the software engineering field. I am eager to contribute my expertise and drive to deliver cutting-edge solutions that exceed expectations.
 
-*   🌍  I'm based in Islamabad,Pakistan.
-*   ✉️  You can contact me at [aali274297@gmail.com](mailto:aali274297@gmail.com )
-*   🧠  I'm learning Node and AWS.
-*   🤝  I'm open to collaborating on Projects.<a href="https://www.github.com/maliabbas101" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/maliabbas101?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+* 🌍  I'm based in Islamabad,Pakistan.
+* ✉️  You can contact me at [aali274297@gmail.com](mailto:aali274297@gmail.com )
+* 🧠  I'm learning Node and AWS.
+* 🤝  I'm open to collaborating on Projects.
+
+<a href="https://www.github.com/maliabbas101" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/maliabbas101?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -40,16 +46,24 @@ As a highly skilled and versatile software engineer, I bring extensive experienc
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/maliabbas101" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/muhammad-ali-abbas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/maliabbas101"><img src="https://github-readme-stats.vercel.app/api?username=maliabbas101&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="maliabbas101's GitHub stats" /></a><a
-                      href="http://www.github.com/maliabbas101"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=maliabbas101&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/maliabbas101"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=maliabbas101&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/maliabbas101" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliabbas101&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/maliabbas101" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muhammad-ali-abbas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/maliabbas101"><img src="https://github-readme-stats.vercel.app/api?username=maliabbas101&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="maliabbas101's GitHub stats" /></a>
+
+<a href="http://www.github.com/maliabbas101"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maliabbas101&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/maliabbas101"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=maliabbas101&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/maliabbas101" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliabbas101&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
