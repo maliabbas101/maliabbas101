@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />, I'm Muhammad Ali Abbas</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />, I'm Muhammad Taqi Abbas</h1>
 
 <h3 align="center">Full Stack Developer | Python · Django · MERN · AWS · DevOps</h3>
 
@@ -11,10 +11,10 @@ I'm proficient in **Python**, **JavaScript**, and **C++**, and well-versed in **
 
 I have hands-on knowledge of **Docker**, **Kubernetes**, and services like **EC2**, **S3**, **Lambda**, and **Elastic Beanstalk**. I enjoy building scalable systems, intuitive UIs, and working in collaborative, agile teams.
 
-- 🌍  Based in **Dubai, United Arab Emirates**  
-- ✉️  Reach me at: [aali274297@gmail.com](mailto:aali274297@gmail.com)  
-- 🧠  Currently learning **Node.js** and **AWS Advanced**  
-- 🤝  Open to collaboration on exciting tech projects  
+- Based in **Dubai, United Arab Emirates**  
+- Reach me at: [aali274297@gmail.com](mailto:aali274297@gmail.com)  
+- Currently learning **Node.js** and **AWS Advanced**  
+- Open to collaboration on exciting tech projects  
 
 ---
 
