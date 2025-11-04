@@ -11,9 +11,9 @@ I'm proficient in **Python**, **JavaScript**, and **C++**, and well-versed in **
 
 I have hands-on knowledge of **Docker**, **Kubernetes**, and services like **EC2**, **S3**, **Lambda**, and **Elastic Beanstalk**. I enjoy building scalable systems, intuitive UIs, and working in collaborative, agile teams.
 
-- Based in **Dubai, United Arab Emirates**  
+- Based in **Islamabad, Pakistan**  
 - Reach me at: [aali274297@gmail.com](mailto:aali274297@gmail.com)  
-- Currently learning **Node.js** and **AWS Advanced**  
+- Currently learning **NEXT.js** and **AWS Advanced**  
 - Open to collaboration on exciting tech projects  
 
 ---
